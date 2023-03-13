@@ -1,2 +1,2 @@
 ! allow tweakers.net
-||tweakers.net^
+@@||tweakers.net^
