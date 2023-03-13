@@ -1,2 +1,3 @@
 ! allow tweakers.net 
 @@||tweakers.net^
+@@||fok.nl
